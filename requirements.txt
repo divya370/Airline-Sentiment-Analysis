@@ -3,9 +3,5 @@ pandas
 numpy
 matplotlib
 jupytext
-torch
 ipykernel
-beautifulsoup4
-requests
-pycountry
-geopy
+
